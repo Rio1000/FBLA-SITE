@@ -433,6 +433,9 @@ body {
 
   .image-container img {
     width: 85%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
   }
 
   .overlay {
@@ -440,6 +443,10 @@ body {
   }
   .text{
     top: 30%;
+  }
+  .overlay{
+    width: 100%;
+    margin-left:-6.2%;
   }
 }
 
